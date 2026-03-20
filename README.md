@@ -1,2 +1,3 @@
-# rapid-e-learning-gpsy
-Automated issue comment bot repository
+# Rapid E Learning Gpsy
+
+Automated issue comment bot repository.
